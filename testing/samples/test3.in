@@ -1,0 +1,14 @@
+> init
+<<<
++ hello.txt hello.txt
++ world.txt world.txt
+> add world.txt
+<<<
+> add hello.txt
+<<<
+> rm hello.txt
+<<<
+> commit "add hello and world and remove hello"
+<<<
+> branch me
+<<<

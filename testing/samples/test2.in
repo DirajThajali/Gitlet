@@ -1,0 +1,8 @@
+> init
+<<<
++ hello.txt hello.txt
++ world.txt world.txt
+> add world.txt
+<<<
+> commit "committed two files"
+<<<

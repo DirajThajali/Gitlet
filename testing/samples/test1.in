@@ -1,0 +1,10 @@
+> init
+<<<
++ hello.txt hello.txt
++ world.txt world.txt
+> add world.txt
+<<<
+> add hello.txt
+<<<
+> commit "hello and world"
+<<<
